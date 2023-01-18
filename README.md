@@ -10,7 +10,7 @@ In This project I present the cpu based DVBT protocol as a transmitter and I am 
   - You can transmit each ts file by using this project
 
 
-In This project, the transmitter is based on a code one of my friends released. You can find it [in his github page](https://github.com/mkh1992/DVBT-Transmitter).
+In This project, the transmitter is based on a MATLAB code one of my friends released. You can find it [in his github page](https://github.com/mkh1992/DVBT-Transmitter).
 
 For the transmitter we should implement these processing blocks[^1]:
 - [x] PRBS Sequence Generator
