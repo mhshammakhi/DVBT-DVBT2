@@ -3,6 +3,12 @@
 ## DVBT
 
 In This project I present the cpu based DVBT protocol as a transmitter and I am developing GPU based receiver.
+ 
+ The main featurs of the implimeted code are:
+  - It contains Qt based GUI
+  - It is cross-platform
+  - You can transmit each ts file by using this project
+
 
 In This project, the transmitter is based on a code one of my friends released. You can find it [in his github page](https://github.com/mkh1992/DVBT-Transmitter).
 
